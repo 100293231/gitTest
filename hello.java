@@ -3,6 +3,5 @@ public class hello {
         System.out.println("hello");
         System.out.println("niugit");
         System.out.println("das");
-        11111
     }
 }
